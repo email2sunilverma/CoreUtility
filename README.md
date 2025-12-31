@@ -177,7 +177,7 @@ This package follows [Semantic Versioning](https://semver.org/):
 | PATCH   | Bug fixes                      |
 
 **Example:**
-- `2.0.0` – Removed CoreUtility facade and exposed utilities directly
+- `1.0.0` – Removed CoreUtility facade and exposed utilities directly
 
 ---
 
